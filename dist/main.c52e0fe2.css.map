@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/main.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"main.c52e0fe2.css","sourceRoot":"../src","sourcesContent":[".button {\n  border-radius: 0.5em;\n  border: none;\n  padding: 0.5em;\n  transition: color 1s ease-in-out;\n  cursor: pointer;\n}\n\n.button:hover {\n  color: red;\n}"]}
